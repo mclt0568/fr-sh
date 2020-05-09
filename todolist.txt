@@ -1,0 +1,11 @@
+todonote:
+
+	execute(cmd,args)
+
+	syntax hightlight
+
+	modes:
+		codemode
+		stright execute mode
+
+	

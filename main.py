@@ -4,4 +4,3 @@ import VariableControl
 PREFIXES = ["",""]
 
 print(DirControl.Executables.EXECUTABLES_CURRENT)
-# DirControl.CurrentDirExecutables.
