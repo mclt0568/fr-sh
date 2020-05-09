@@ -6,8 +6,11 @@ CURRENT_PATH = os.path.abspath(".")
 Executables.updatePathsExe()
 Executables.updateCurrentExe()
 
-def update():
+def updateCurrentPath():
+	global CURRENT_PATH
 	CURRENT_PATH = os.path.abspath(".")
 
-def chdir():
-	pass
+def chdir(value):
+	os.chdir(value)
+	updateCurrentPath()
+	Executables.updateCurrentExe()
