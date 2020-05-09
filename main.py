@@ -1,6 +1,4 @@
 import DirControl
 import VariableControl
+# import Interface
 
-PREFIXES = ["",""]
-
-print(DirControl.Executables.EXECUTABLES_CURRENT)
