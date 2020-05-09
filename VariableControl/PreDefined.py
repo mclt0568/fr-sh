@@ -1,11 +1,11 @@
 def getDefault():
 	return {
-		"PROMPT":{
-			"type":"",
+		"PROMPT_BASIC":{
+			"type":"string",
 			"value":"{}>"
 		},
 		"STARTTIMEMSG":{
-			"type":"",
+			"type":"string",
 			"value":"welcome"
 		}
 	}

@@ -1,3 +1,5 @@
+#This file is just for me to take note of my own thoughts. Nothing to do with the program.
+
 todonote:
 
 	execute(cmd,args)
@@ -8,4 +10,8 @@ todonote:
 		codemode
 		stright execute mode
 
-	
+	ShAddons:
+		cd
+		edit variable
+
+		togglemode

@@ -1,4 +1,5 @@
 import DirControl
 import VariableControl
-# import Interface
+import Interface
 
+Interface.runBasic()
